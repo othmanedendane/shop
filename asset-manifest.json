@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.9e1dfdcc.css",
+    "main.js": "/shop/static/js/main.f3124e01.js",
+    "static/js/787.23170c61.chunk.js": "/shop/static/js/787.23170c61.chunk.js",
+    "static/media/clavier.png": "/shop/static/media/clavier.8d9d21ba465ad65c8ae4.png",
+    "static/media/pc.png": "/shop/static/media/pc.2aa63bdf3b52c58b3434.png",
+    "static/media/samurai.png": "/shop/static/media/samurai.b068c839defc0654213c.png",
+    "static/media/red.png": "/shop/static/media/red.f429de6a9d480fb8090d.png",
+    "static/media/fifa.png": "/shop/static/media/fifa.6f7da594bd751c68390f.png",
+    "static/media/ps4.webp": "/shop/static/media/ps4.21c954f1c76597d8a6ee.webp",
+    "static/media/casque.png": "/shop/static/media/casque.e0ea74354a7e97a20f23.png",
+    "static/media/souris.png": "/shop/static/media/souris.f5952dcc6d53dcd2dc43.png",
+    "static/media/assassins.webp": "/shop/static/media/assassins.eaa25c1b95270acac196.webp",
+    "static/media/katana.webp": "/shop/static/media/katana.1e67f8fa13bec7ae7f4c.webp",
+    "static/media/war.webp": "/shop/static/media/war.dd15b3cccde5ed10304f.webp",
+    "static/media/ps5.png": "/shop/static/media/ps5.f62e619fdbac74fc37f7.png",
+    "index.html": "/shop/index.html",
+    "main.9e1dfdcc.css.map": "/shop/static/css/main.9e1dfdcc.css.map",
+    "main.f3124e01.js.map": "/shop/static/js/main.f3124e01.js.map",
+    "787.23170c61.chunk.js.map": "/shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1dfdcc.css",
+    "static/js/main.f3124e01.js"
+  ]
+}
